@@ -1,1 +1,1 @@
-# Sample C++20 Project Template for Visual Studio Code.
+# Code repository for Master Class C++20.
